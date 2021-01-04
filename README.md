@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hello world, You can call me Ahmad</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1>
+  <h1 align="center"><b>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, You can call me Ahmad</b></h1>
 </p>
 
 <p>
@@ -28,7 +28,7 @@
 <br>
 
 ###   :zap: I am a software / web developer
-<p>Hi, I'm passionate about programming, not only in web development but also in data engineering and mobile app development. My specialty is backend,  especialy Laravel, and I'm curently focusing on honing my skills on the frontend stack. :sunglasses:</p>
+<p>Hi, I'm passionate about programming, not only in `web development` but also in `data engineering` and `mobile app` development. My specialty is backend,  especialy `Laravel`, and I'm curently focusing on honing my skills on the `frontend stack`. :sunglasses:</p>
 <p>Happy coding dude!! :v:</p>
 <p>"Understand from basic concepts, learning from basic concepts, with more than 7 years of experience in Software / Web Development"</p>
 
