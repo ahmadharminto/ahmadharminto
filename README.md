@@ -58,6 +58,7 @@
 <img align="left" alt="AWS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png" />
 <img align="left" alt="Heroku" width="100px" src="https://logos-download.com/wp-content/uploads/2016/09/Heroku_logo.png" />
 <img align="left" alt="Trello" width="100px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png" />
+<br><br>
 <img align="left" alt="Jira" width="100px" src="https://logos-download.com/wp-content/uploads/2016/09/Jira_Software_logo.png" />
 <img align="left" alt="Pentaho" width="100px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" />
 
