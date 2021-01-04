@@ -28,9 +28,12 @@
 <br>
 
 ###   :zap: I am a software / web developer
-<p>Hi, I'm passionate about programming, not only in `web development` but also in `data engineering` and `mobile app` development. My specialty is backend,  especialy `Laravel`, and I'm curently focusing on honing my skills on the `frontend stack`. :sunglasses:</p>
+<p>Hi, I'm passionate about programming, not only in ```web development``` but also in ```data engineering``` and ```mobile app``` development. My specialty is backend,  especialy ```Laravel```, and I'm curently focusing on honing my skills on the ```frontend stack```. :sunglasses:</p>
 <p>Happy coding dude!! :v:</p>
 <p>"Understand from basic concepts, learning from basic concepts, with more than 7 years of experience in Software / Web Development"</p>
+<p>Let's gooooo! <img height="50px" alt="GIF" src="https://media.giphy.com/media/3y0oCOkdKKRi0/giphy.gif" />
+
+<br><br>
 
 ###  :zap: Programming Languages : 
 
@@ -48,7 +51,7 @@
 <img align="left" alt="MongoDB" width="120px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
 <img align="left" alt="Redis" width="120px" src="https://cdn4.iconfinder.com/data/icons/redis-2/467/Redis_Logo-512.png" />
 
-<br><br>
+<br><br><br>
 
 ###  :zap: Programming Tools - Services :
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
