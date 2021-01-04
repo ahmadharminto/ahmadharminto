@@ -1,3 +1,4 @@
+
 <p>
   <h1 align="center"><b>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, You can call me Ahmad</b></h1>
 </p>
@@ -28,7 +29,8 @@
 <br>
 
 ###   :zap: I am a software / web developer
-<p>Hi, I'm passionate about programming, not only in ```web development``` but also in ```data engineering``` and ```mobile app``` development. My specialty is backend,  especialy ```Laravel```, and I'm curently focusing on honing my skills on the ```frontend stack```. :sunglasses:</p>
+
+<p>Hi, I'm passionate about programming, not only in <code><strong>web development</strong></code> but also in <code><strong>data engineering</strong></code> and <code><strong>mobile app</strong></code> development. My specialty is backend,  especialy <code><strong>Laravel</strong></code>, and I'm curently focusing on honing my skills on the <code><strong>frontend stack</strong></code>. :sunglasses:</p>
 <p>Happy coding dude!! :v:</p>
 <p>"Understand from basic concepts, learning from basic concepts, with more than 7 years of experience in Software / Web Development"</p>
 <p>Let's gooooo! <img height="50px" alt="GIF" src="https://media.giphy.com/media/3y0oCOkdKKRi0/giphy.gif" />
