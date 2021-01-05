@@ -52,7 +52,7 @@
 <img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="120px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
 <img align="left" alt="Redis" width="120px" src="https://cdn4.iconfinder.com/data/icons/redis-2/467/Redis_Logo-512.png" />
-
+<img align="left" alt="Websocket" width="75px" src="https://i.morioh.com/9f75e619b0.png" />
 <br><br><br>
 
 ###  :zap: Programming Tools - Services :
@@ -65,6 +65,7 @@
 <img align="left" alt="Trello" width="100px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png" />
 <br><br>
 <img align="left" alt="Jira" width="100px" src="https://logos-download.com/wp-content/uploads/2016/09/Jira_Software_logo.png" />
+<img align="left" alt="Asana" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Asana_logo.svg/1280px-Asana_logo.svg.png" />
 <img align="left" alt="Pentaho" width="100px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" />
 
 <br>
