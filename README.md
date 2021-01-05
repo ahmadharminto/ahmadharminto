@@ -48,7 +48,7 @@
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Express" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
 <br><br>
-<img align="left" alt="MySQL" width="60px" src="https://lh3.googleusercontent.com/proxy/3RvlbQ_AlNLpTy3nHrFPXDdqN0f-4TXLdGfUW4VDqs2qyjGb0IrhQo9-dtNL2Fz0_fNAP-k8uokthjO8O0jlX80loDxysCy_WE9mvhW2nm4Bb5NS1yND" />
+<img align="left" alt="MySQL" width="60px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 <img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="120px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
 <img align="left" alt="Redis" width="120px" src="https://cdn4.iconfinder.com/data/icons/redis-2/467/Redis_Logo-512.png" />
