@@ -15,8 +15,10 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/ahmadharminto"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://web.facebook.com/harminto.ahmad"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.instagram.com/ahmadharminto"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<!--
+<a href="https://web.facebook.com/{username}"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.instagram.com/{username}"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+-->
 <a href="mailto:harminto_ahmad@live.com?subject=Hi%20Ahmad"><img src="https://img.shields.io/badge/live-3984BE?style=for-the-badge&logo=microsoft&logoColor=white" alt="Live"/></a>&nbsp;
 <a href="https://ngoding-bae.my.id/"><img alt="Website" src="https://img.shields.io/badge/my%20site-lightgray?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
