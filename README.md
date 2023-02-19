@@ -42,6 +42,7 @@
 ###  :zap: Programming Languages : 
 
 <img align="left" alt="Laravel" width="100px" src="https://logos-download.com/wp-content/uploads/2016/09/Laravel_logo_wordmark_logotype.png" />
+<img align="left" alt="Django" width="100px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
