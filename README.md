@@ -54,7 +54,7 @@
 <img align="left" alt="MySQL" width="60px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 <img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="120px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
-<img align="left" alt="Redis" width="120px" src="https://cdn4.iconfinder.com/data/icons/redis-2/467/Redis_Logo-512.png" />
+<img align="left" alt="Redis" width="120px" src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis-white.svg?auto=webp&quality=85,75&width=300" />
 <img align="left" alt="Websocket" width="75px" src="https://i.morioh.com/9f75e619b0.png" />
 <br><br><br>
 
