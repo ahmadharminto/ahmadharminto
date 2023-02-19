@@ -71,7 +71,7 @@
 <img align="left" alt="Asana" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Asana_logo.svg/1280px-Asana_logo.svg.png" />
 <img align="left" alt="Pentaho" width="100px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" />
 <img align="left" alt="Pentaho" width="100px" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" />
-
+<img align="left" alt="Pentaho" width="100px" src="https://www.nginx.com/wp-content/uploads/2021/08/NGINX-Part-of-F5-horiz-black-type-1.svg" />
 <br>
 <br>
 
