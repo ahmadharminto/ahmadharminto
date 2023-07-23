@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="profile-views" src="https://gpvc.arturio.dev/ahmadharminto" />
-    <!--<img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ahmadharminto.ahmadharminto" />-->
+<!--     <img align="center" alt="profile-views" src="https://gpvc.arturio.dev/ahmadharminto" /> -->
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ahmadharminto.ahmadharminto" />
 </p>
 
 <p align="center">
