@@ -46,6 +46,7 @@
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <!--<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />-->
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="PHP" width="35px" src="https://www.brandlogopng.com/filesmall/logo/php/php-language-logo-hd-image-download-baby-elephant-clipart-5brd.webp" />
 <!--<img align="left" alt="Vue" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />-->
 <!--<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />-->
 <!--<img align="left" alt="Next" width="40px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />-->
@@ -71,7 +72,7 @@
 <!--<img align="left" alt="Asana" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Asana_logo.svg/1280px-Asana_logo.svg.png" />-->
 <!--<img align="left" alt="Pentaho" width="100px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" />-->
 <img align="left" alt="Docker" width="100px" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" />
-<img align="left" alt="Nginx" width="100px" src="https://www.nginx.com/wp-content/uploads/2021/08/NGINX-Part-of-F5-horiz-black-type-1.svg" />
+<!--<img align="left" alt="Nginx" width="100px" src="https://www.nginx.com/wp-content/uploads/2021/08/NGINX-Part-of-F5-horiz-black-type-1.svg" />-->
 <br>
 <br>
 
