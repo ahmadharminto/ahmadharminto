@@ -9,7 +9,7 @@
 
 <p align="center">
 <!--     <img align="center" alt="profile-views" src="https://gpvc.arturio.dev/ahmadharminto" /> -->
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ahmadharminto.ahmadharminto" />
+<!--     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=ahmadharminto.ahmadharminto" /> -->
 </p>
 
 <p align="center">
@@ -32,47 +32,46 @@
 
 ###   :zap: I am a software / web developer
 
-<p>Hi, I'm passionate about programming, not only in <code><strong>web development</strong></code> but also in <code><strong>data engineering</strong></code> and <code><strong>mobile app</strong></code> development. My specialty is backend,  especialy <code><strong>Laravel</strong></code>, and I'm currently focusing on honing my skills on the <code><strong>frontend stack</strong></code>. :sunglasses:</p>
+<p>Hi, I'm passionate about programming, especially on web development.</p>
 <p>Happy coding dude!! :v:</p>
-<p>"Understand from basic concepts, learning from basic concepts, with more than 7 years of experience in Software / Web Development"</p>
 <p>Let's gooooo! <img height="50px" alt="GIF" src="https://media.giphy.com/media/3y0oCOkdKKRi0/giphy.gif" />
 
 <br><br>
 
 ###  :zap: Programming Languages : 
 
-<img align="left" alt="Laravel" width="100px" src="https://logos-download.com/wp-content/uploads/2016/09/Laravel_logo_wordmark_logotype.png" />
-<img align="left" alt="Django" width="100px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />
+<!--<img align="left" alt="Laravel" width="100px" src="https://logos-download.com/wp-content/uploads/2016/09/Laravel_logo_wordmark_logotype.png" />-->
+<!--<img align="left" alt="Django" width="100px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />-->
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<!--<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />-->
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <!--<img align="left" alt="Vue" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />-->
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Next" width="40px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
-<img align="left" alt="Express" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
+<!--<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />-->
+<!--<img align="left" alt="Next" width="40px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />-->
+<!--<img align="left" alt="Express" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />-->
 <br><br>
 <img align="left" alt="MySQL" width="60px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
-<img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MongoDB" width="120px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
+<!--<img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />-->
+<!--<img align="left" alt="MongoDB" width="120px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />-->
 <img align="left" alt="Redis" width="120px" src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" />
-<img align="left" alt="Websocket" width="75px" src="https://i.morioh.com/9f75e619b0.png" />
+<!--<img align="left" alt="Websocket" width="75px" src="https://i.morioh.com/9f75e619b0.png" />-->
 <br><br><br>
 
 ###  :zap: Programming Tools - Services :
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />
-<img align="left" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="AWS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png" />
-<img align="left" alt="Heroku" width="100px" src="https://logos-download.com/wp-content/uploads/2016/09/Heroku_logo.png" />
+<!--<img align="left" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />-->
+<!--<img align="left" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />-->
+<img align="left" alt="DO" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png" />
+<!--<img align="left" alt="Heroku" width="100px" src="https://logos-download.com/wp-content/uploads/2016/09/Heroku_logo.png" />-->
 <img align="left" alt="Trello" width="100px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png" />
 <br><br>
 <img align="left" alt="Jira" width="100px" src="https://logos-download.com/wp-content/uploads/2016/09/Jira_Software_logo.png" />
-<img align="left" alt="Asana" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Asana_logo.svg/1280px-Asana_logo.svg.png" />
-<img align="left" alt="Pentaho" width="100px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" />
-<img align="left" alt="Pentaho" width="100px" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" />
-<img align="left" alt="Pentaho" width="100px" src="https://www.nginx.com/wp-content/uploads/2021/08/NGINX-Part-of-F5-horiz-black-type-1.svg" />
+<!--<img align="left" alt="Asana" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Asana_logo.svg/1280px-Asana_logo.svg.png" />-->
+<!--<img align="left" alt="Pentaho" width="100px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo.png" />-->
+<img align="left" alt="Docker" width="100px" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" />
+<img align="left" alt="Nginx" width="100px" src="https://www.nginx.com/wp-content/uploads/2021/08/NGINX-Part-of-F5-horiz-black-type-1.svg" />
 <br>
 <br>
 
